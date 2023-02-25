@@ -3,7 +3,7 @@
 ![Reports covers](https://user-images.githubusercontent.com/95411800/219285748-2a91179c-2465-4452-aac0-0ddd688ecf25.png)
 
 # Goal of this project:
-This project was my first time experimenting with databse from the designing and development side, starting from the simplist aspects like what is the process of transforming data into information, to initially having a technical and user document that showcase the project.
+This project was my first time experimenting with database from the designing and development side, starting from the simplist aspects like what is the process of transforming data into information, to initially having a technical and user document that showcase the project.
 In this project I was aiming to develop a fully functional relational database system, based on an existing system design, test the system against user and system requirements, and finally produce technical and user documentation.
 
 ______________________________________________________________
